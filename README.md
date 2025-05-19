@@ -3,9 +3,11 @@
 This repository contains the material used for the SCINBRE Introduction to Python workshop from the Bioinformatics and Data Science
 Summer Workshops 2025 series. You can find more information, including the agenda, on these workshops [here](https://www.scinbre.org/learning/bids-tutorials-and-workshops/2025-summer-workshops).
 
-Lectures sessions will be every day from 10 AM to noon. Official office hours will be from 2 PM to 3 PM. Please feel free to contact me (christian.oreilly@sc.edu) if you have questions outside these hours.
+Lectures will be every day from 10 AM to noon. Official office hours will be from 2 PM to 3 PM. Please feel free to contact me (christian.oreilly@sc.edu) if you have questions outside these hours.
 
 Each lecture will be associated with a corresponding Jupyter Notebook. 
+
+For convenience, here is the short version of this URL: https://tinyurl.com/4uu96n7h
 
 ### Local installation
 
